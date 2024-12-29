@@ -29,17 +29,12 @@
 
 ### Reporting  
 - Generate detailed reports from various perspectives to gain insights into sales, expenses, and overall financial performance.  
-
-## Benefits  
-- Simplifies sales tracking and commission management.  
-- Customizable commission structures for flexibility.  
-- Centralized financial data for better decision-making.  
  
 ## Roles and Activities
-> Managing Directory
-> * Can have all the access for all section.
-> Accountant
-> * Only can access assign roles.
-> * Can create another User and active
-> Main Agent
-> * Only Can access assign roles.
+1. Managing Directory
+   - Can have all the access for all section.
+2. Accountant
+   - Only can access assign roles.
+   - Can create another User and active
+3. Main Agent
+   - Only Can access assign roles.
