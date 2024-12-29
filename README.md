@@ -2,7 +2,8 @@
 
 ### Sort Description 
 
-> This system provides a comprehensive solution for tracking company sales and managing financial operations.  
+- This system provides a comprehensive solution for tracking company sales and managing financial operations.
+- [Database Model Describe](https://github.com/flexiblerahi/estate/blob/master/database%20model.pdf)
 
 ### Features  
 
